@@ -6,12 +6,29 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker": "minerva",
+			"dialog": "OK but low key I'm not your muse lol",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "mickey",
+			"dialog": "Hi ya folks!",
+			"newSpeaker": "true"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "mickey",
+			"dialog": "Come on in to the club house!",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
+			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "homer",
